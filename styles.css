@@ -3,5 +3,9 @@ body {
 }
 
 .code {
-    font-family: 'Source Code Pro', ;
+    font-family: 'Source Code Pro' ;
+}
+
+.desc {
+    font-weight: bold;
 }
