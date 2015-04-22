@@ -3,13 +3,10 @@ body {
 }
 
 .code {
+    margin-top: 20px ;
     font-family: 'Source Code Pro' ;
 }
 
 .desc {
     font-weight: bold;
-}
-
-p {
-    margin-bottom : 20px;
 }
