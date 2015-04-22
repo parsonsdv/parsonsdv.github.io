@@ -9,3 +9,7 @@ body {
 .desc {
     font-weight: bold;
 }
+
+p {
+    margin-bottom : 20px;
+}
